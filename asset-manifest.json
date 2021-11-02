@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shiva5152/react-menu.git/static/css/main.da59b93d.chunk.css",
+    "main.js": "/shiva5152/react-menu.git/static/js/main.64a6917f.chunk.js",
+    "main.js.map": "/shiva5152/react-menu.git/static/js/main.64a6917f.chunk.js.map",
+    "runtime-main.js": "/shiva5152/react-menu.git/static/js/runtime-main.8dfbbf1a.js",
+    "runtime-main.js.map": "/shiva5152/react-menu.git/static/js/runtime-main.8dfbbf1a.js.map",
+    "static/js/2.46ae5111.chunk.js": "/shiva5152/react-menu.git/static/js/2.46ae5111.chunk.js",
+    "static/js/2.46ae5111.chunk.js.map": "/shiva5152/react-menu.git/static/js/2.46ae5111.chunk.js.map",
+    "index.html": "/shiva5152/react-menu.git/index.html",
+    "static/css/main.da59b93d.chunk.css.map": "/shiva5152/react-menu.git/static/css/main.da59b93d.chunk.css.map",
+    "static/js/2.46ae5111.chunk.js.LICENSE.txt": "/shiva5152/react-menu.git/static/js/2.46ae5111.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dfbbf1a.js",
+    "static/js/2.46ae5111.chunk.js",
+    "static/css/main.da59b93d.chunk.css",
+    "static/js/main.64a6917f.chunk.js"
+  ]
+}
